@@ -4,8 +4,8 @@
 
 ## 📷 Deploy
 
-<h3>LINK: https://lp-avatar-higorstos.vercel.app/</h3>
-<a href="https://lp-avatar-higorstos.vercel.app/" target="_blank">
+<h3>LINK: https://lp-avatar.vercel.app/</h3>
+<a href="https://lp-avatar.vercel.app/" target="_blank">
  <img src="./.github/preview.png" width="100%" style="border-radius: 6px" />
 </a>
 
