@@ -1,0 +1,93 @@
+main {
+    flex: 1;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    width: 100%;
+    max-width: 1440px;
+
+    font-family: 'Avenir', sans-serif;
+}
+
+.main__info {
+    width: 100%;
+    max-width: 575px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    margin-top: -125px;
+}
+
+.main__info img {
+    width: auto;
+    height: 225px;
+
+    margin-right: auto;
+    margin-bottom: -20px;
+}
+
+.main__info p {
+    font-size: 18px;
+}
+
+.main__info a {
+    font-size: 14px;
+    font-weight: 600s;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+
+    background-color: #00000099;
+    border: 1px solid #f9f9f9;
+    border-radius: 3px;
+    padding: 16px 24px;
+
+    margin-top: 30px;
+}
+
+.main__buttons {
+    display: flex;
+    column-gap: 25px;
+    margin-right: auto;
+}
+
+#disney_plus {
+    border: 1px solid var(--blue);
+    background-color: var(--blue);
+
+    transition: all 0.4s;
+}
+
+#disney_plus:hover {
+    background-color: #058eff;
+
+    transition: all 0.4s;
+}
+
+#trailer:hover {
+    color: #222;
+    border: 1px solid #00000099;
+    background-color: #f9f9f9;
+}
+
+#main_photo {
+    width: 780px;
+    height: auto;
+
+    transform: scaleX(-1);
+}
+
+footer {
+    color: rgba(255, 255, 255, 0.75);
+}
+
+footer {
+    font-size: 16px;
+
+    margin-bottom: 5px;
+    margin-right: 10px;
+    margin-left: auto;
+}
