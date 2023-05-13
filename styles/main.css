@@ -44,6 +44,7 @@ main {
     border: 1px solid #f9f9f9;
     border-radius: 3px;
     padding: 16px 24px;
+    transition-duration: 0.5s;
 
     margin-top: 30px;
 }
@@ -57,20 +58,20 @@ main {
 #disney_plus {
     border: 1px solid var(--blue);
     background-color: var(--blue);
-
-    transition: all 0.4s;
 }
 
 #disney_plus:hover {
-    background-color: #058eff;
+    background-color: #0d92ff;
 
-    transition: all 0.4s;
+    transition-duration: 0.5s;
 }
 
 #trailer:hover {
     color: #222;
     border: 1px solid #00000099;
     background-color: #f9f9f9;
+
+    transition-duration: 0.5s;
 }
 
 #main_photo {
