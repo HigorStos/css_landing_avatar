@@ -27,7 +27,7 @@ header {
     position: relative;
 }
 .navigation__link:hover{
-    color: #058eff;
+    color: #0d92ff;
 }
 
 .navigation__link::after{
@@ -38,7 +38,7 @@ header {
 
     height: 1px;
     width: 70%;
-    background: #058eff;
+    background: #0d92ff;
 
     transform: scaleX(0);
     transform-origin: right;
