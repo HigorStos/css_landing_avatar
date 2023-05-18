@@ -11,7 +11,7 @@
 
 ## 💻 Projeto
 
-Neste projeto próprio, consegui aplicar os conceitos de HTML e CSS para a criação de uma landing page do filme Avatar: O Caminho da Água.
+Projeto próprio, onde consegui aplicar os conceitos de HTML e CSS para a criação de uma landing page do filme Avatar: O Caminho da Água.
 
 ## 🚀 Tecnologias
 
